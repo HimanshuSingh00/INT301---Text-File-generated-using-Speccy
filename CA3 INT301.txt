@@ -1,0 +1,2090 @@
+Summary
+		Operating System
+			Windows 10 Home 64-bit
+		CPU
+			Intel Core @ 1.80GHz
+			Broadwell U/ULT 14nm Technology
+		RAM
+			4.00GB Dual-Channel DDR2 @ 159MHz (8-10-5-21)
+		Motherboard
+			Parallels Software International Inc. Parallels Virtual Platform (CPU Socket #0)
+		Graphics
+			Parallels Vu (1440x900@60Hz)
+			2036MB Unknown Parallels Display Adapter (WDDM) (Unknown)
+		Storage
+			256GB Parallels Virtual NVMe Disk (Unknown (SSD))
+		Optical Drives
+			Virtual DVD-ROM
+		Audio
+			High Definition Audio Device
+Operating System
+	Windows 10 Home 64-bit
+	Computer type: Virtual
+	Installation Date: 3/4/2023 6:30:05 PM
+	Serial Number: T49TD-6VFBW-VV7HY-B2PXY-MY47H
+		Windows Security Center
+			User Account Control (UAC)	Enabled
+			Notify level	1 - Rare Notify
+			Firewall	Enabled
+		Windows Update
+			AutoUpdate	Notify prior to download
+		Windows Defender
+			Windows Defender	Enabled
+		Antivirus
+			Antivirus	Enabled
+			Display Name	Windows Defender
+			Virus Signature Database	Up to date
+		.NET Frameworks installed
+			v4.8 Full
+			v4.8 Client
+			v3.5 SP1
+			v3.0 SP2
+			v2.0 SP2
+		Internet Explorer
+			Version	11.789.19041.0
+		PowerShell
+			Version	5.1.19041.1
+		Environment Variables
+			USERPROFILE	C:\Users\himanshu
+			SystemRoot	C:\Windows
+				User Variables
+					Path	C:\Users\himanshu\AppData\Local\Microsoft\WindowsApps
+					TEMP	C:\Users\himanshu\AppData\Local\Temp
+					TMP	C:\Users\himanshu\AppData\Local\Temp
+				Machine Variables
+					ComSpec	C:\Windows\system32\cmd.exe
+					DriverData	C:\Windows\System32\Drivers\DriverData
+					NUMBER_OF_PROCESSORS	2
+					OS	Windows_NT
+					Path	C:\Program Files\Parallels\Parallels Tools\Applications
+					C:\Windows\system32
+					C:\Windows
+					C:\Windows\System32\Wbem
+					C:\Windows\System32\WindowsPowerShell\v1.0\
+					C:\Windows\System32\OpenSSH\
+					PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+					PROCESSOR_ARCHITECTURE	AMD64
+					PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 61 Stepping 4, GenuineIntel
+					PROCESSOR_LEVEL	6
+					PROCESSOR_REVISION	3d04
+					PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules
+					C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+					TEMP	C:\Windows\TEMP
+					TMP	C:\Windows\TEMP
+					USERNAME	SYSTEM
+					windir	C:\Windows
+		Battery
+			AC Line	Offline
+			Battery Charge %	69 %
+			Battery State	High
+			Remaining Battery Time	5 : 08
+		Power Profile
+			Active power scheme	Parallels
+			Hibernation	Disabled
+			Turn Off Monitor after: (On AC Power)	Never
+			Turn Off Monitor after: (On Battery Power)	Never
+			Turn Off Hard Disk after: (On AC Power)	Never
+			Turn Off Hard Disk after: (On Battery Power)	Never
+			Suspend after: (On AC Power)	Never
+			Suspend after: (On Battery Power)	Never
+			Screen saver	Disabled
+		Uptime
+				Current Session
+					Current Time	3/20/2023 4:01:37 PM
+					Current Uptime	662 sec (0 d, 00 h, 11 m, 02 s)
+					Last Boot Time	3/20/2023 3:50:35 PM
+		Services
+			Running	Application Information
+			Running	AppX Deployment Service (AppXSVC)
+			Running	AVCTP service
+			Running	Background Tasks Infrastructure Service
+			Running	Base Filtering Engine
+			Running	Bluetooth Audio Gateway Service
+			Running	Bluetooth Support Service
+			Running	Capability Access Manager Service
+			Running	Client License Service (ClipSVC)
+			Running	Clipboard User Service_2ab61
+			Running	CNG Key Isolation
+			Running	COM+ Event System
+			Running	Connected Devices Platform Service
+			Running	Connected Devices Platform User Service_2ab61
+			Running	Connected User Experiences and Telemetry
+			Running	Contact Data_2ab61
+			Running	CoreMessaging
+			Running	Credential Manager
+			Running	Cryptographic Services
+			Running	Data Usage
+			Running	DCOM Server Process Launcher
+			Running	Delivery Optimization
+			Running	Device Association Service
+			Running	DHCP Client
+			Running	Diagnostic Policy Service
+			Running	Diagnostic Service Host
+			Running	Diagnostic System Host
+			Running	Display Policy Service
+			Running	Distributed Link Tracking Client
+			Running	DNS Client
+			Running	Geolocation Service
+			Running	Group Policy Client
+			Running	IP Helper
+			Running	Local Session Manager
+			Running	Microsoft Account Sign-in Assistant
+			Running	Microsoft Defender Antivirus Network Inspection Service
+			Running	Microsoft Defender Antivirus Service
+			Running	Microsoft Edge Update Service (edgeupdate)
+			Running	Microsoft Store Install Service
+			Running	Network Connection Broker
+			Running	Network List Service
+			Running	Network Location Awareness
+			Running	Network Setup Service
+			Running	Network Store Interface Service
+			Running	Parallels Coherence Service
+			Running	Parallels Tools Service
+			Running	Payments and NFC/SE Manager
+			Running	Peer Name Resolution Protocol
+			Running	Peer Networking Identity Manager
+			Running	Plug and Play
+			Running	Power
+			Running	Print Spooler
+			Running	Program Compatibility Assistant Service
+			Running	Radio Management Service
+			Running	Remote Procedure Call (RPC)
+			Running	RPC Endpoint Mapper
+			Running	Security Accounts Manager
+			Running	Security Center
+			Running	Server
+			Running	Shell Hardware Detection
+			Running	SSDP Discovery
+			Running	State Repository Service
+			Running	Storage Service
+			Running	Sync Host_2ab61
+			Running	SysMain
+			Running	System Event Notification Service
+			Running	System Events Broker
+			Running	System Guard Runtime Monitor Broker
+			Running	Task Scheduler
+			Running	TCP/IP NetBIOS Helper
+			Running	Themes
+			Running	Time Broker
+			Running	Touch Keyboard and Handwriting Panel Service
+			Running	Update Orchestrator Service
+			Running	User Data Access_2ab61
+			Running	User Data Storage_2ab61
+			Running	User Manager
+			Running	User Profile Service
+			Running	Web Account Manager
+			Running	Windows Audio
+			Running	Windows Audio Endpoint Builder
+			Running	Windows Connection Manager
+			Running	Windows Defender Firewall
+			Running	Windows Event Log
+			Running	Windows Font Cache Service
+			Running	Windows License Manager Service
+			Running	Windows Management Instrumentation
+			Running	Windows Modules Installer
+			Running	Windows Push Notifications System Service
+			Running	Windows Push Notifications User Service_2ab61
+			Running	Windows Search
+			Running	Windows Security Service
+			Running	Windows Update
+			Running	WinHTTP Web Proxy Auto-Discovery Service
+			Running	Workstation
+			Stopped	ActiveX Installer (AxInstSV)
+			Stopped	Agent Activation Runtime_2ab61
+			Stopped	AllJoyn Router Service
+			Stopped	App Readiness
+			Stopped	Application Identity
+			Stopped	Application Layer Gateway Service
+			Stopped	Auto Time Zone Updater
+			Stopped	Background Intelligent Transfer Service
+			Stopped	BitLocker Drive Encryption Service
+			Stopped	Block Level Backup Engine Service
+			Stopped	Bluetooth User Support Service_2ab61
+			Stopped	CaptureService_2ab61
+			Stopped	Cellular Time
+			Stopped	Certificate Propagation
+			Stopped	COM+ System Application
+			Stopped	Computer Browser
+			Stopped	ConsentUX_2ab61
+			Stopped	CredentialEnrollmentManagerUserSvc_2ab61
+			Stopped	Data Sharing Service
+			Stopped	Device Install Service
+			Stopped	Device Management Enrollment Service
+			Stopped	Device Management Wireless Application Protocol (WAP) Push message Routing Service
+			Stopped	Device Setup Manager
+			Stopped	DeviceAssociationBroker_2ab61
+			Stopped	DevicePicker_2ab61
+			Stopped	DevicesFlow_2ab61
+			Stopped	DevQuery Background Discovery Broker
+			Stopped	Diagnostic Execution Service
+			Stopped	Display Enhancement Service
+			Stopped	Distributed Transaction Coordinator
+			Stopped	Downloaded Maps Manager
+			Stopped	Embedded Mode
+			Stopped	Encrypting File System (EFS)
+			Stopped	Enterprise App Management Service
+			Stopped	Extensible Authentication Protocol
+			Stopped	Fax
+			Stopped	File History Service
+			Stopped	Function Discovery Provider Host
+			Stopped	Function Discovery Resource Publication
+			Stopped	GameDVR and Broadcast User Service_2ab61
+			Stopped	Google Chrome Elevation Service (GoogleChromeElevationService)
+			Stopped	Google Update Service (gupdate)
+			Stopped	Google Update Service (gupdatem)
+			Stopped	GraphicsPerfSvc
+			Stopped	Human Interface Device Service
+			Stopped	HV Host Service
+			Stopped	Hyper-V Data Exchange Service
+			Stopped	Hyper-V Guest Service Interface
+			Stopped	Hyper-V Guest Shutdown Service
+			Stopped	Hyper-V Heartbeat Service
+			Stopped	Hyper-V PowerShell Direct Service
+			Stopped	Hyper-V Remote Desktop Virtualization Service
+			Stopped	Hyper-V Time Synchronization Service
+			Stopped	Hyper-V Volume Shadow Copy Requestor
+			Stopped	IKE and AuthIP IPsec Keying Modules
+			Stopped	Internet Connection Sharing (ICS)
+			Stopped	IP Translation Configuration Service
+			Stopped	IPsec Policy Agent
+			Stopped	KtmRm for Distributed Transaction Coordinator
+			Stopped	Language Experience Service
+			Stopped	Link-Layer Topology Discovery Mapper
+			Stopped	Local Profile Assistant Service
+			Stopped	McpManagementService
+			Stopped	MessagingService_2ab61
+			Stopped	Microsoft Diagnostics Hub Standard Collector Service
+			Stopped	Microsoft Edge Elevation Service (MicrosoftEdgeElevationService)
+			Stopped	Microsoft Edge Update Service (edgeupdatem)
+			Stopped	Microsoft iSCSI Initiator Service
+			Stopped	Microsoft Office Diagnostics Service
+			Stopped	Microsoft Passport
+			Stopped	Microsoft Passport Container
+			Stopped	Microsoft Software Shadow Copy Provider
+			Stopped	Microsoft Storage Spaces SMP
+			Stopped	Microsoft Windows SMS Router Service.
+			Stopped	Natural Authentication
+			Stopped	Net.Tcp Port Sharing Service
+			Stopped	Netlogon
+			Stopped	Network Connected Devices Auto-Setup
+			Stopped	Network Connections
+			Stopped	Network Connectivity Assistant
+			Stopped	Office Source Engine
+			Stopped	OpenSSH Authentication Agent
+			Stopped	Optimize drives
+			Stopped	Parental Controls
+			Stopped	Peer Networking Grouping
+			Stopped	Performance Counter DLL Host
+			Stopped	Performance Logs & Alerts
+			Stopped	Phone Service
+			Stopped	PNRP Machine Name Publication Service
+			Stopped	Portable Device Enumerator Service
+			Stopped	Printer Extensions and Notifications
+			Stopped	PrintWorkflow_2ab61
+			Stopped	Problem Reports Control Panel Support
+			Stopped	Quality Windows Audio Video Experience
+			Stopped	Recommended Troubleshooting Service
+			Stopped	Remote Access Auto Connection Manager
+			Stopped	Remote Access Connection Manager
+			Stopped	Remote Desktop Configuration
+			Stopped	Remote Desktop Services
+			Stopped	Remote Desktop Services UserMode Port Redirector
+			Stopped	Remote Procedure Call (RPC) Locator
+			Stopped	Remote Registry
+			Stopped	Retail Demo Service
+			Stopped	Routing and Remote Access
+			Stopped	Secondary Logon
+			Stopped	Secure Socket Tunneling Protocol Service
+			Stopped	Sensor Data Service
+			Stopped	Sensor Monitoring Service
+			Stopped	Sensor Service
+			Stopped	Shared PC Account Manager
+			Stopped	Smart Card
+			Stopped	Smart Card Device Enumeration Service
+			Stopped	Smart Card Removal Policy
+			Stopped	SNMP Trap
+			Stopped	Software Protection
+			Stopped	Spatial Data Service
+			Stopped	Spot Verifier
+			Stopped	Still Image Acquisition Events
+			Stopped	Storage Tiers Management
+			Stopped	Telephony
+			Stopped	Udk User Service_2ab61
+			Stopped	UPnP Device Host
+			Stopped	Virtual Disk
+			Stopped	Volume Shadow Copy
+			Stopped	Volumetric Audio Compositor Service
+			Stopped	WalletService
+			Stopped	WarpJITSvc
+			Stopped	WebClient
+			Stopped	Wi-Fi Direct Services Connection Manager Service
+			Stopped	Windows Backup
+			Stopped	Windows Biometric Service
+			Stopped	Windows Camera Frame Server
+			Stopped	Windows Connect Now - Config Registrar
+			Stopped	Windows Encryption Provider Host Service
+			Stopped	Windows Error Reporting Service
+			Stopped	Windows Event Collector
+			Stopped	Windows Image Acquisition (WIA)
+			Stopped	Windows Insider Service
+			Stopped	Windows Installer
+			Stopped	Windows Management Service
+			Stopped	Windows Media Player Network Sharing Service
+			Stopped	Windows Mixed Reality OpenXR Service
+			Stopped	Windows Mobile Hotspot Service
+			Stopped	Windows Perception Service
+			Stopped	Windows Perception Simulation Service
+			Stopped	Windows Presentation Foundation Font Cache 3.0.0.0
+			Stopped	Windows PushToInstall Service
+			Stopped	Windows Remote Management (WS-Management)
+			Stopped	Windows Time
+			Stopped	Windows Update Medic Service
+			Stopped	Wired AutoConfig
+			Stopped	WLAN AutoConfig
+			Stopped	WMI Performance Adapter
+			Stopped	Work Folders
+			Stopped	WWAN AutoConfig
+			Stopped	Xbox Accessory Management Service
+			Stopped	Xbox Live Auth Manager
+			Stopped	Xbox Live Game Save
+			Stopped	Xbox Live Networking Service
+		TimeZone
+			TimeZone	GMT +5:30 Hours
+			Language	English (United States)
+			Location	United States
+			Format	English (United States)
+			Currency	$
+			Date Format	M/d/yyyy
+			Time Format	h:mm:ss tt
+		Scheduler
+			3/20/2023 4:07 PM;	MicrosoftEdgeUpdateTaskMachineUA
+			3/20/2023 7:37 PM;	MicrosoftEdgeUpdateTaskMachineCore
+		Hotfixes
+				Installed
+						3/9/2023  Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.383.1335.0)
+							Install this update to revise the files that are used to detect
+							viruses, spyware, and other potentially unwanted software. Once
+							you have installed this item, it cannot be removed.
+						3/6/2023  Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.383.1115.0)
+							Install this update to revise the files that are used to detect
+							viruses, spyware, and other potentially unwanted software. Once
+							you have installed this item, it cannot be removed.
+						3/6/2023  Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.383.1098.0)
+							Install this update to revise the files that are used to detect
+							viruses, spyware, and other potentially unwanted software. Once
+							you have installed this item, it cannot be removed.
+						3/6/2023  Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.383.1064.0)
+							Install this update to revise the files that are used to detect
+							viruses, spyware, and other potentially unwanted software. Once
+							you have installed this item, it cannot be removed.
+						3/5/2023  Update for Microsoft Defender Antivirus antimalware platform - KB4052623 (Version 4.18.2301.6)
+							This package will update Microsoft Defender Antivirus antimalware
+							platform’s components on the user machine.
+						3/5/2023  Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.383.1064.0)
+							Install this update to revise the files that are used to detect
+							viruses, spyware, and other potentially unwanted software. Once
+							you have installed this item, it cannot be removed.
+				Not Installed
+		System Folders
+			Application Data	C:\ProgramData
+			Cookies	C:\Users\himanshu\AppData\Local\Microsoft\Windows\INetCookies
+			Desktop	C:\Users\himanshu\Desktop
+			Documents	C:\Users\Public\Documents
+			Fonts	C:\Windows\Fonts
+			Global Favorites	C:\Users\himanshu\Favorites
+			Internet History	C:\Users\himanshu\AppData\Local\Microsoft\Windows\History
+			Local Application Data	C:\Users\himanshu\AppData\Local
+			Music	C:\Users\Public\Music
+			Path for burning CD	C:\Users\himanshu\AppData\Local\Microsoft\Windows\Burn\Burn
+			Physical Desktop	C:\Users\himanshu\Desktop
+			Pictures	C:\Users\Public\Pictures
+			Program Files	C:\Program Files
+			Public Desktop	C:\Users\Public\Desktop
+			Start Menu	C:\ProgramData\Microsoft\Windows\Start Menu
+			Start Menu Programs	C:\ProgramData\Microsoft\Windows\Start Menu\Programs
+			Startup	C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup
+			Templates	C:\ProgramData\Microsoft\Windows\Templates
+			Temporary Internet Files	C:\Users\himanshu\AppData\Local\Microsoft\Windows\INetCache
+			User Favorites	C:\Users\himanshu\Favorites
+			Videos	C:\Users\Public\Videos
+			Windows Directory	C:\Windows
+			Windows/System	C:\Windows\system32
+		Process List
+				ApplicationFrameHost.exe
+					Process ID	6616
+					User	himanshu
+					Domain	HIMANSHUSIN2C36
+					Path	C:\Windows\System32\ApplicationFrameHost.exe
+					Memory Usage	26 MB
+					Peak Memory Usage	27 MB
+				audiodg.exe
+					Process ID	3140
+					User	LOCAL SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\audiodg.exe
+					Memory Usage	12 MB
+					Peak Memory Usage	13 MB
+				chrome.exe
+					Process ID	3920
+					User	himanshu
+					Domain	HIMANSHUSIN2C36
+					Path	C:\Program Files\Google\Chrome\Application\chrome.exe
+					Memory Usage	7.08 MB
+					Peak Memory Usage	7.12 MB
+				chrome.exe
+					Process ID	2868
+					User	himanshu
+					Domain	HIMANSHUSIN2C36
+					Path	C:\Program Files\Google\Chrome\Application\chrome.exe
+					Memory Usage	133 MB
+					Peak Memory Usage	251 MB
+				chrome.exe
+					Process ID	2372
+					User	himanshu
+					Domain	HIMANSHUSIN2C36
+					Path	C:\Program Files\Google\Chrome\Application\chrome.exe
+					Memory Usage	135 MB
+					Peak Memory Usage	180 MB
+				chrome.exe
+					Process ID	3964
+					User	himanshu
+					Domain	HIMANSHUSIN2C36
+					Path	C:\Program Files\Google\Chrome\Application\chrome.exe
+					Memory Usage	34 MB
+					Peak Memory Usage	34 MB
+				chrome.exe
+					Process ID	8072
+					User	himanshu
+					Domain	HIMANSHUSIN2C36
+					Path	C:\Program Files\Google\Chrome\Application\chrome.exe
+					Memory Usage	90 MB
+					Peak Memory Usage	136 MB
+				chrome.exe
+					Process ID	2360
+					User	himanshu
+					Domain	HIMANSHUSIN2C36
+					Path	C:\Program Files\Google\Chrome\Application\chrome.exe
+					Memory Usage	25 MB
+					Peak Memory Usage	25 MB
+				chrome.exe
+					Process ID	7960
+					User	himanshu
+					Domain	HIMANSHUSIN2C36
+					Path	C:\Program Files\Google\Chrome\Application\chrome.exe
+					Memory Usage	16 MB
+					Peak Memory Usage	17 MB
+				chrome.exe
+					Process ID	7324
+					User	himanshu
+					Domain	HIMANSHUSIN2C36
+					Path	C:\Program Files\Google\Chrome\Application\chrome.exe
+					Memory Usage	176 MB
+					Peak Memory Usage	355 MB
+				chrome.exe
+					Process ID	5736
+					User	himanshu
+					Domain	HIMANSHUSIN2C36
+					Path	C:\Program Files\Google\Chrome\Application\chrome.exe
+					Memory Usage	18 MB
+					Peak Memory Usage	18 MB
+				chrome.exe
+					Process ID	1116
+					User	himanshu
+					Domain	HIMANSHUSIN2C36
+					Path	C:\Program Files\Google\Chrome\Application\chrome.exe
+					Memory Usage	33 MB
+					Peak Memory Usage	51 MB
+				chrome.exe
+					Process ID	3132
+					User	himanshu
+					Domain	HIMANSHUSIN2C36
+					Path	C:\Program Files\Google\Chrome\Application\chrome.exe
+					Memory Usage	87 MB
+					Peak Memory Usage	103 MB
+				coherence.exe
+					Process ID	3332
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Program Files\Parallels\Parallels Tools\Services\coherence.exe
+					Memory Usage	5.66 MB
+					Peak Memory Usage	5.69 MB
+				coherence.exe
+					Process ID	3576
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Program Files\Parallels\Parallels Tools\Services\coherence.exe
+					Memory Usage	5.79 MB
+					Peak Memory Usage	5.82 MB
+				csrss.exe
+					Process ID	584
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\csrss.exe
+					Memory Usage	11 MB
+					Peak Memory Usage	20 MB
+				csrss.exe
+					Process ID	472
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\csrss.exe
+					Memory Usage	5.41 MB
+					Peak Memory Usage	5.48 MB
+				ctfmon.exe
+					Process ID	3168
+					User	himanshu
+					Domain	HIMANSHUSIN2C36
+					Path	C:\Windows\System32\ctfmon.exe
+					Memory Usage	20 MB
+					Peak Memory Usage	20 MB
+				dllhost.exe
+					Process ID	7136
+					User	himanshu
+					Domain	HIMANSHUSIN2C36
+					Path	C:\Windows\System32\dllhost.exe
+					Memory Usage	12 MB
+					Peak Memory Usage	13 MB
+				dwm.exe
+					Process ID	752
+					User	DWM-1
+					Domain	Window Manager
+					Path	C:\Windows\System32\dwm.exe
+					Memory Usage	65 MB
+					Peak Memory Usage	77 MB
+				explorer.exe
+					Process ID	4932
+					User	himanshu
+					Domain	HIMANSHUSIN2C36
+					Path	C:\Windows\explorer.exe
+					Memory Usage	124 MB
+					Peak Memory Usage	134 MB
+				fontdrvhost.exe
+					Process ID	876
+					User	UMFD-1
+					Domain	Font Driver Host
+					Path	C:\Windows\System32\fontdrvhost.exe
+					Memory Usage	8.25 MB
+					Peak Memory Usage	8.25 MB
+				fontdrvhost.exe
+					Process ID	884
+					User	UMFD-0
+					Domain	Font Driver Host
+					Path	C:\Windows\System32\fontdrvhost.exe
+					Memory Usage	3.37 MB
+					Peak Memory Usage	3.43 MB
+				GoogleUpdate.exe
+					Process ID	7952
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
+					Memory Usage	1.77 MB
+					Peak Memory Usage	11 MB
+				lsass.exe
+					Process ID	740
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\lsass.exe
+					Memory Usage	18 MB
+					Peak Memory Usage	18 MB
+				Memory Compression
+					Process ID	2020
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Memory Usage	48 MB
+					Peak Memory Usage	76 MB
+				MicrosoftEdgeUpdate.exe
+					Process ID	2776
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+					Memory Usage	9.71 MB
+					Peak Memory Usage	11 MB
+				MicrosoftEdgeUpdate.exe
+					Process ID	5176
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+					Memory Usage	1.65 MB
+					Peak Memory Usage	10 MB
+				MicrosoftEdgeUpdate.exe
+					Process ID	2252
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+					Memory Usage	17 MB
+					Peak Memory Usage	17 MB
+				MoUsoCoreWorker.exe
+					Process ID	5132
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\MoUsoCoreWorker.exe
+					Memory Usage	22 MB
+					Peak Memory Usage	24 MB
+				MsMpEng.exe
+					Process ID	3444
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2301.6-0\MsMpEng.exe
+					Memory Usage	190 MB
+					Peak Memory Usage	235 MB
+				NisSrv.exe
+					Process ID	6684
+					User	LOCAL SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2301.6-0\NisSrv.exe
+					Memory Usage	11 MB
+					Peak Memory Usage	11 MB
+				PhoneExperienceHost.exe
+					Process ID	6328
+					User	himanshu
+					Domain	HIMANSHUSIN2C36
+					Path	C:\Program Files\WindowsApps\Microsoft.YourPhone_1.23012.167.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+					Memory Usage	143 MB
+					Peak Memory Usage	149 MB
+				prl_cc.exe
+					Process ID	5532
+					User	himanshu
+					Domain	HIMANSHUSIN2C36
+					Path	C:\Program Files\Parallels\Parallels Tools\prl_cc.exe
+					Memory Usage	30 MB
+					Peak Memory Usage	30 MB
+				prl_tools.exe
+					Process ID	3520
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Program Files\Parallels\Parallels Tools\Services\prl_tools.exe
+					Memory Usage	9.05 MB
+					Peak Memory Usage	9.05 MB
+				prl_tools_service.exe
+					Process ID	3356
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Program Files\Parallels\Parallels Tools\Services\prl_tools_service.exe
+					Memory Usage	9.78 MB
+					Peak Memory Usage	10 MB
+				Registry
+					Process ID	92
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Memory Usage	72 MB
+					Peak Memory Usage	100 MB
+				RuntimeBroker.exe
+					Process ID	6444
+					User	himanshu
+					Domain	HIMANSHUSIN2C36
+					Path	C:\Windows\System32\RuntimeBroker.exe
+					Memory Usage	14 MB
+					Peak Memory Usage	16 MB
+				RuntimeBroker.exe
+					Process ID	6676
+					User	himanshu
+					Domain	HIMANSHUSIN2C36
+					Path	C:\Windows\System32\RuntimeBroker.exe
+					Memory Usage	22 MB
+					Peak Memory Usage	22 MB
+				RuntimeBroker.exe
+					Process ID	5752
+					User	himanshu
+					Domain	HIMANSHUSIN2C36
+					Path	C:\Windows\System32\RuntimeBroker.exe
+					Memory Usage	26 MB
+					Peak Memory Usage	26 MB
+				RuntimeBroker.exe
+					Process ID	5988
+					User	himanshu
+					Domain	HIMANSHUSIN2C36
+					Path	C:\Windows\System32\RuntimeBroker.exe
+					Memory Usage	33 MB
+					Peak Memory Usage	33 MB
+				SearchApp.exe
+					Process ID	5876
+					User	himanshu
+					Domain	HIMANSHUSIN2C36
+					Path	C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe
+					Memory Usage	147 MB
+					Peak Memory Usage	171 MB
+				SearchFilterHost.exe
+					Process ID	4340
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\SearchFilterHost.exe
+					Memory Usage	7.37 MB
+					Peak Memory Usage	7.38 MB
+				SearchIndexer.exe
+					Process ID	6048
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\SearchIndexer.exe
+					Memory Usage	25 MB
+					Peak Memory Usage	25 MB
+				SearchProtocolHost.exe
+					Process ID	7828
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\SearchProtocolHost.exe
+					Memory Usage	18 MB
+					Peak Memory Usage	18 MB
+				SecurityHealthService.exe
+					Process ID	7004
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\SecurityHealthService.exe
+					Memory Usage	15 MB
+					Peak Memory Usage	15 MB
+				SecurityHealthSystray.exe
+					Process ID	6952
+					User	himanshu
+					Domain	HIMANSHUSIN2C36
+					Path	C:\Windows\System32\SecurityHealthSystray.exe
+					Memory Usage	9.13 MB
+					Peak Memory Usage	9.13 MB
+				services.exe
+					Process ID	720
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\services.exe
+					Memory Usage	9.70 MB
+					Peak Memory Usage	9.88 MB
+				SgrmBroker.exe
+					Process ID	6288
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\SgrmBroker.exe
+					Memory Usage	6.97 MB
+					Peak Memory Usage	7.72 MB
+				sihost.exe
+					Process ID	4052
+					User	himanshu
+					Domain	HIMANSHUSIN2C36
+					Path	C:\Windows\System32\sihost.exe
+					Memory Usage	29 MB
+					Peak Memory Usage	29 MB
+				smartscreen.exe
+					Process ID	6824
+					User	himanshu
+					Domain	HIMANSHUSIN2C36
+					Path	C:\Windows\System32\smartscreen.exe
+					Memory Usage	36 MB
+					Peak Memory Usage	36 MB
+				smss.exe
+					Process ID	356
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\smss.exe
+					Memory Usage	1.19 MB
+					Peak Memory Usage	1.24 MB
+				Speccy64.exe
+					Process ID	6964
+					User	himanshu
+					Domain	HIMANSHUSIN2C36
+					Path	C:\Program Files\Speccy\Speccy64.exe
+					Memory Usage	35 MB
+					Peak Memory Usage	35 MB
+				spoolsv.exe
+					Process ID	2256
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\spoolsv.exe
+					Memory Usage	15 MB
+					Peak Memory Usage	16 MB
+				StartMenuExperienceHost.exe
+					Process ID	5648
+					User	himanshu
+					Domain	HIMANSHUSIN2C36
+					Path	C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe
+					Memory Usage	66 MB
+					Peak Memory Usage	72 MB
+				svchost.exe
+					Process ID	2716
+					User	NETWORK SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	7.87 MB
+					Peak Memory Usage	8.02 MB
+				svchost.exe
+					Process ID	2736
+					User	LOCAL SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	6.32 MB
+					Peak Memory Usage	6.41 MB
+				svchost.exe
+					Process ID	2744
+					User	LOCAL SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	9.39 MB
+					Peak Memory Usage	9.71 MB
+				svchost.exe
+					Process ID	2912
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	12 MB
+					Peak Memory Usage	13 MB
+				svchost.exe
+					Process ID	2924
+					User	LOCAL SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	18 MB
+					Peak Memory Usage	21 MB
+				svchost.exe
+					Process ID	3084
+					User	NETWORK SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	7.98 MB
+					Peak Memory Usage	8.00 MB
+				svchost.exe
+					Process ID	3220
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	46 MB
+					Peak Memory Usage	48 MB
+				svchost.exe
+					Process ID	3228
+					User	NETWORK SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	13 MB
+					Peak Memory Usage	14 MB
+				svchost.exe
+					Process ID	3236
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	31 MB
+					Peak Memory Usage	70 MB
+				svchost.exe
+					Process ID	3248
+					User	LOCAL SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	17 MB
+					Peak Memory Usage	56 MB
+				svchost.exe
+					Process ID	3264
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	19 MB
+					Peak Memory Usage	20 MB
+				svchost.exe
+					Process ID	3344
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	9.00 MB
+					Peak Memory Usage	9.18 MB
+				svchost.exe
+					Process ID	3416
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	5.61 MB
+					Peak Memory Usage	5.68 MB
+				svchost.exe
+					Process ID	3456
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	20 MB
+					Peak Memory Usage	20 MB
+				svchost.exe
+					Process ID	3584
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	11 MB
+					Peak Memory Usage	11 MB
+				svchost.exe
+					Process ID	1856
+					User	LOCAL SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	8.48 MB
+					Peak Memory Usage	8.49 MB
+				svchost.exe
+					Process ID	3080
+					User	himanshu
+					Domain	HIMANSHUSIN2C36
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	17 MB
+					Peak Memory Usage	17 MB
+				svchost.exe
+					Process ID	1100
+					User	himanshu
+					Domain	HIMANSHUSIN2C36
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	31 MB
+					Peak Memory Usage	31 MB
+				svchost.exe
+					Process ID	4444
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	20 MB
+					Peak Memory Usage	20 MB
+				svchost.exe
+					Process ID	4880
+					User	LOCAL SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	16 MB
+					Peak Memory Usage	18 MB
+				svchost.exe
+					Process ID	4632
+					User	himanshu
+					Domain	HIMANSHUSIN2C36
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	20 MB
+					Peak Memory Usage	21 MB
+				svchost.exe
+					Process ID	4180
+					User	LOCAL SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	20 MB
+					Peak Memory Usage	21 MB
+				svchost.exe
+					Process ID	5292
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	7.12 MB
+					Peak Memory Usage	7.29 MB
+				svchost.exe
+					Process ID	5376
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	64 MB
+					Peak Memory Usage	67 MB
+				svchost.exe
+					Process ID	5572
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	15 MB
+					Peak Memory Usage	16 MB
+				svchost.exe
+					Process ID	3592
+					User	LOCAL SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	5.45 MB
+					Peak Memory Usage	5.56 MB
+				svchost.exe
+					Process ID	1048
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	7.64 MB
+					Peak Memory Usage	7.73 MB
+				svchost.exe
+					Process ID	856
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	32 MB
+					Peak Memory Usage	32 MB
+				svchost.exe
+					Process ID	1020
+					User	NETWORK SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	14 MB
+					Peak Memory Usage	14 MB
+				svchost.exe
+					Process ID	536
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	8.11 MB
+					Peak Memory Usage	8.18 MB
+				svchost.exe
+					Process ID	1084
+					User	LOCAL SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	5.36 MB
+					Peak Memory Usage	5.45 MB
+				svchost.exe
+					Process ID	1092
+					User	LOCAL SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	7.83 MB
+					Peak Memory Usage	7.91 MB
+				svchost.exe
+					Process ID	1136
+					User	LOCAL SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	6.86 MB
+					Peak Memory Usage	6.93 MB
+				svchost.exe
+					Process ID	1144
+					User	LOCAL SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	12 MB
+					Peak Memory Usage	12 MB
+				svchost.exe
+					Process ID	448
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	13 MB
+					Peak Memory Usage	13 MB
+				svchost.exe
+					Process ID	6316
+					User	LOCAL SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	7.32 MB
+					Peak Memory Usage	7.44 MB
+				svchost.exe
+					Process ID	1196
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	9.76 MB
+					Peak Memory Usage	9.81 MB
+				svchost.exe
+					Process ID	2300
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	17 MB
+					Peak Memory Usage	20 MB
+				svchost.exe
+					Process ID	1208
+					User	LOCAL SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	12 MB
+					Peak Memory Usage	12 MB
+				svchost.exe
+					Process ID	1276
+					User	LOCAL SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	6.04 MB
+					Peak Memory Usage	6.05 MB
+				svchost.exe
+					Process ID	1356
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	15 MB
+					Peak Memory Usage	15 MB
+				svchost.exe
+					Process ID	2984
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	13 MB
+					Peak Memory Usage	20 MB
+				svchost.exe
+					Process ID	1416
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	14 MB
+					Peak Memory Usage	14 MB
+				svchost.exe
+					Process ID	1516
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	20 MB
+					Peak Memory Usage	20 MB
+				svchost.exe
+					Process ID	1524
+					User	LOCAL SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	20 MB
+					Peak Memory Usage	20 MB
+				svchost.exe
+					Process ID	1536
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	7.91 MB
+					Peak Memory Usage	8.04 MB
+				svchost.exe
+					Process ID	1672
+					User	LOCAL SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	7.09 MB
+					Peak Memory Usage	7.27 MB
+				svchost.exe
+					Process ID	1732
+					User	LOCAL SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	7.65 MB
+					Peak Memory Usage	7.78 MB
+				svchost.exe
+					Process ID	1768
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	13 MB
+					Peak Memory Usage	16 MB
+				svchost.exe
+					Process ID	1800
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	5.77 MB
+					Peak Memory Usage	5.84 MB
+				svchost.exe
+					Process ID	8140
+					User	NETWORK SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	18 MB
+					Peak Memory Usage	19 MB
+				svchost.exe
+					Process ID	7320
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	11 MB
+					Peak Memory Usage	11 MB
+				svchost.exe
+					Process ID	1864
+					User	LOCAL SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	12 MB
+					Peak Memory Usage	12 MB
+				svchost.exe
+					Process ID	2980
+					User	LOCAL SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	9.86 MB
+					Peak Memory Usage	9.98 MB
+				svchost.exe
+					Process ID	7916
+					User	himanshu
+					Domain	HIMANSHUSIN2C36
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	20 MB
+					Peak Memory Usage	21 MB
+				svchost.exe
+					Process ID	1984
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	20 MB
+					Peak Memory Usage	21 MB
+				svchost.exe
+					Process ID	2012
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	11 MB
+					Peak Memory Usage	12 MB
+				svchost.exe
+					Process ID	1348
+					User	LOCAL SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	7.48 MB
+					Peak Memory Usage	7.55 MB
+				svchost.exe
+					Process ID	4780
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	21 MB
+					Peak Memory Usage	22 MB
+				svchost.exe
+					Process ID	1652
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	7.84 MB
+					Peak Memory Usage	7.98 MB
+				svchost.exe
+					Process ID	7200
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	5.77 MB
+					Peak Memory Usage	5.80 MB
+				svchost.exe
+					Process ID	420
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	6.49 MB
+					Peak Memory Usage	6.60 MB
+				svchost.exe
+					Process ID	2196
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	7.72 MB
+					Peak Memory Usage	7.85 MB
+				svchost.exe
+					Process ID	2204
+					User	LOCAL SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	7.37 MB
+					Peak Memory Usage	7.72 MB
+				svchost.exe
+					Process ID	2352
+					User	NETWORK SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	12 MB
+					Peak Memory Usage	12 MB
+				svchost.exe
+					Process ID	5792
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	6.15 MB
+					Peak Memory Usage	6.21 MB
+				svchost.exe
+					Process ID	2424
+					User	LOCAL SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	8.92 MB
+					Peak Memory Usage	8.98 MB
+				svchost.exe
+					Process ID	2464
+					User	LOCAL SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	12 MB
+					Peak Memory Usage	12 MB
+				svchost.exe
+					Process ID	2552
+					User	LOCAL SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	8.35 MB
+					Peak Memory Usage	8.53 MB
+				svchost.exe
+					Process ID	2584
+					User	LOCAL SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	7.34 MB
+					Peak Memory Usage	7.46 MB
+				svchost.exe
+					Process ID	1844
+					User	LOCAL SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	6.55 MB
+					Peak Memory Usage	6.55 MB
+				svchost.exe
+					Process ID	2520
+					User	LOCAL SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	6.06 MB
+					Peak Memory Usage	6.06 MB
+				svchost.exe
+					Process ID	6104
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	7.23 MB
+					Peak Memory Usage	7.24 MB
+				System
+					Process ID	4
+					Memory Usage	508 KB
+					Peak Memory Usage	1.39 MB
+				System Idle Process
+					Process ID	0
+				SystemSettings.exe
+					Process ID	2296
+					User	himanshu
+					Domain	HIMANSHUSIN2C36
+					Path	C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+					Memory Usage	2.90 MB
+					Peak Memory Usage	88 MB
+				taskhostw.exe
+					Process ID	3616
+					User	himanshu
+					Domain	HIMANSHUSIN2C36
+					Path	C:\Windows\System32\taskhostw.exe
+					Memory Usage	7.20 MB
+					Peak Memory Usage	14 MB
+				taskhostw.exe
+					Process ID	3976
+					User	himanshu
+					Domain	HIMANSHUSIN2C36
+					Path	C:\Windows\System32\taskhostw.exe
+					Memory Usage	14 MB
+					Peak Memory Usage	15 MB
+				TextInputHost.exe
+					Process ID	7616
+					User	himanshu
+					Domain	HIMANSHUSIN2C36
+					Path	C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe
+					Memory Usage	38 MB
+					Peak Memory Usage	39 MB
+				TiWorker.exe
+					Process ID	2724
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.1940_none_7dd80d767cb5c7b0\TiWorker.exe
+					Memory Usage	12 MB
+					Peak Memory Usage	14 MB
+				TrustedInstaller.exe
+					Process ID	5008
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\servicing\TrustedInstaller.exe
+					Memory Usage	6.99 MB
+					Peak Memory Usage	7.08 MB
+				wininit.exe
+					Process ID	576
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\wininit.exe
+					Memory Usage	6.88 MB
+					Peak Memory Usage	7.09 MB
+				winlogon.exe
+					Process ID	648
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\winlogon.exe
+					Memory Usage	11 MB
+					Peak Memory Usage	16 MB
+				WmiPrvSE.exe
+					Process ID	2624
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\wbem\WmiPrvSE.exe
+					Memory Usage	14 MB
+					Peak Memory Usage	14 MB
+				WmiPrvSE.exe
+					Process ID	6752
+					User	NETWORK SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\wbem\WmiPrvSE.exe
+					Memory Usage	24 MB
+					Peak Memory Usage	27 MB
+				WUDFHost.exe
+					Process ID	912
+					User	LOCAL SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\WUDFHost.exe
+					Memory Usage	7.96 MB
+					Peak Memory Usage	8.01 MB
+		Security Options
+			Accounts: Administrator account status	Disabled
+			Accounts: Block Microsoft accounts	Not Defined
+			Accounts: Guest account status	Disabled
+			Accounts: Limit local account use of blank passwords to console logon only	Enabled
+			Accounts: Rename administrator account	Administrator
+			Accounts: Rename guest account	Guest
+			Audit: Audit the access of global system objects	Disabled
+			Audit: Audit the use of Backup and Restore privilege	Disabled
+			Audit: Force audit policy subcategory settings (Windows Vista or later) to override audit policy category settings	Not Defined
+			Audit: Shut down system immediately if unable to log security audits	Disabled
+			DCOM: Machine Access Restrictions in Security Descriptor Definition Language (SDDL) syntax	Not Defined
+			DCOM: Machine Launch Restrictions in Security Descriptor Definition Language (SDDL) syntax	Not Defined
+			Devices: Allow undock without having to log on	Enabled
+			Devices: Allowed to format and eject removable media	Not Defined
+			Devices: Prevent users from installing printer drivers	Disabled
+			Devices: Restrict CD-ROM access to locally logged-on user only	Not Defined
+			Devices: Restrict floppy access to locally logged-on user only	Not Defined
+			Domain controller: Allow server operators to schedule tasks	Not Defined
+			Domain controller: Allow vulnerable Netlogon secure channel connections	Not Defined
+			Domain controller: LDAP server channel binding token requirements	Not Defined
+			Domain controller: LDAP server signing requirements	Not Defined
+			Domain controller: Refuse machine account password changes	Not Defined
+			Domain member: Digitally encrypt or sign secure channel data (always)	Enabled
+			Domain member: Digitally encrypt secure channel data (when possible)	Enabled
+			Domain member: Digitally sign secure channel data (when possible)	Enabled
+			Domain member: Disable machine account password changes	Disabled
+			Domain member: Maximum machine account password age	30 days
+			Domain member: Require strong (Windows 2000 or later) session key	Enabled
+			Interactive logon: Display user information when the session is locked	Not Defined
+			Interactive logon: Do not require CTRL+ALT+DEL	Not Defined
+			Interactive logon: Don't display last signed-in	Disabled
+			Interactive logon: Don't display username at sign-in	Not Defined
+			Interactive logon: Machine account lockout threshold	Not Defined
+			Interactive logon: Machine inactivity limit	Not Defined
+			Interactive logon: Message text for users attempting to log on
+			Interactive logon: Message title for users attempting to log on
+			Interactive logon: Number of previous logons to cache (in case domain controller is not available)	10 logons
+			Interactive logon: Prompt user to change password before expiration	5 days
+			Interactive logon: Require Domain Controller authentication to unlock workstation	Disabled
+			Interactive logon: Require Windows Hello for Business or smart card	Disabled
+			Interactive logon: Smart card removal behavior	No Action
+			Microsoft network client: Digitally sign communications (always)	Disabled
+			Microsoft network client: Digitally sign communications (if server agrees)	Enabled
+			Microsoft network client: Send unencrypted password to third-party SMB servers	Disabled
+			Microsoft network server: Amount of idle time required before suspending session	15 minutes
+			Microsoft network server: Attempt S4U2Self to obtain claim information	Not Defined
+			Microsoft network server: Digitally sign communications (always)	Disabled
+			Microsoft network server: Digitally sign communications (if client agrees)	Disabled
+			Microsoft network server: Disconnect clients when logon hours expire	Enabled
+			Microsoft network server: Server SPN target name validation level	Not Defined
+			Minimum password length audit	Not Defined
+			Network access: Allow anonymous SID/Name translation	Disabled
+			Network access: Do not allow anonymous enumeration of SAM accounts	Enabled
+			Network access: Do not allow anonymous enumeration of SAM accounts and shares	Disabled
+			Network access: Do not allow storage of passwords and credentials for network authentication	Disabled
+			Network access: Let Everyone permissions apply to anonymous users	Disabled
+			Network access: Named Pipes that can be accessed anonymously
+			Network access: Remotely accessible registry paths	System\CurrentControlSet\Control\ProductOptions,System\CurrentControlSet\Control\Server Applications,Software\Microsoft\Windows NT\CurrentVersion
+			Network access: Remotely accessible registry paths and sub-paths	System\CurrentControlSet\Control\Print\Printers,System\CurrentControlSet\Services\Eventlog,Software\Microsoft\OLAP Server,Software\Microsoft\Windows NT\CurrentVersion\Print,Software\Microsoft\Windows NT\CurrentVersion\Windows,System\CurrentControlSet\Control\ContentIndex,System\CurrentControlSet\Control\Terminal Server,System\CurrentControlSet\Control\Terminal Server\UserConfig,System\CurrentControlSet\Control\Terminal Server\DefaultUserConfiguration,Software\Microsoft\Windows NT\CurrentVersion\Perflib,System\CurrentControlSet\Services\SysmonLog
+			Network access: Restrict anonymous access to Named Pipes and Shares	Enabled
+			Network access: Restrict clients allowed to make remote calls to SAM
+			Network access: Shares that can be accessed anonymously	Not Defined
+			Network access: Sharing and security model for local accounts	Classic - local users authenticate as themselves
+			Network security: Allow Local System to use computer identity for NTLM	Not Defined
+			Network security: Allow LocalSystem NULL session fallback	Not Defined
+			Network security: Allow PKU2U authentication requests to this computer to use online identities.
+
+	Not Defined
+			Network security: Configure encryption types allowed for Kerberos	Not Defined
+			Network security: Do not store LAN Manager hash value on next password change	Enabled
+			Network security: Force logoff when logon hours expire	Disabled
+			Network security: LAN Manager authentication level	Not Defined
+			Network security: LDAP client signing requirements	Negotiate signing
+			Network security: Minimum session security for NTLM SSP based (including secure RPC) clients	Require 128-bit encryption
+			Network security: Minimum session security for NTLM SSP based (including secure RPC) servers	Require 128-bit encryption
+			Network security: Restrict NTLM: Add remote server exceptions for NTLM authentication	Not Defined
+			Network security: Restrict NTLM: Add server exceptions in this domain	Not Defined
+			Network security: Restrict NTLM: Audit Incoming NTLM Traffic	Not Defined
+			Network security: Restrict NTLM: Audit NTLM authentication in this domain	Not Defined
+			Network security: Restrict NTLM: Incoming NTLM traffic	Not Defined
+			Network security: Restrict NTLM: NTLM authentication in this domain	Not Defined
+			Network security: Restrict NTLM: Outgoing NTLM traffic to remote servers	Not Defined
+			Recovery console: Allow automatic administrative logon	Disabled
+			Recovery console: Allow floppy copy and access to all drives and all folders	Disabled
+			Relax minimum password length limits	Not Defined
+			Shutdown: Allow system to be shut down without having to log on	Enabled
+			Shutdown: Clear virtual memory pagefile	Disabled
+			System cryptography: Force strong key protection for user keys stored on the computer	Not Defined
+			System cryptography: Use FIPS compliant algorithms for encryption, hashing, and signing	Disabled
+			System objects: Require case insensitivity for non-Windows subsystems	Enabled
+			System objects: Strengthen default permissions of internal system objects (e.g. Symbolic Links)	Enabled
+			System settings: Optional subsystems
+			System settings: Use Certificate Rules on Windows Executables for Software Restriction Policies	Disabled
+			User Account Control: Admin Approval Mode for the Built-in Administrator account	Not Defined
+			User Account Control: Allow UIAccess applications to prompt for elevation without using the secure desktop	Disabled
+			User Account Control: Behavior of the elevation prompt for administrators in Admin Approval Mode	Prompt for consent for non-Windows binaries
+			User Account Control: Behavior of the elevation prompt for standard users	Prompt for credentials
+			User Account Control: Detect application installations and prompt for elevation	Enabled
+			User Account Control: Only elevate executables that are signed and validated	Disabled
+			User Account Control: Only elevate UIAccess applications that are installed in secure locations	Enabled
+			User Account Control: Run all administrators in Admin Approval Mode	Enabled
+			User Account Control: Switch to the secure desktop when prompting for elevation	Disabled
+			User Account Control: Virtualize file and registry write failures to per-user locations	Enabled
+		Device Tree
+				ACPI x64-based PC
+						Microsoft ACPI-Compliant System
+							ACPI Fixed Feature Button
+							Generic Bus
+							Generic Bus
+							Generic Bus
+							Generic Bus
+							Intel Core i5-5350U CPU @ 1.80GHz
+							Intel Core i5-5350U CPU @ 1.80GHz
+							Microsoft AC Adapter
+							Microsoft ACPI-Compliant Control Method Battery
+								PCI Express Root Complex
+									CPU to IO Controller
+									Parallels Memory Controller
+									Parallels Tool Device
+									Parallels VirtIO Ethernet Adapter
+									PCI-to-PCI Bridge
+									PCI-to-PCI Bridge
+									SM Bus Controller
+										PCI-to-PCI Bridge
+												Parallels Display Adapter (WDDM)
+													Generic PnP Monitor
+										Intel(R) 82801FB/FBM USB Universal Host Controller - 2658
+											USB Root Hub
+										Renesas USB 3.10 eXtensible Host Controller - 1.10 (Microsoft)
+												USB Root Hub (USB 3.0)
+														USB Composite Device
+															FaceTime HD Camera
+										Intel(R) 82801FB/FBM USB2 Enhanced Host Controller - 265C
+												USB Root Hub
+														USB Composite Device
+																USB Input Device
+																	Parallels USB Mouse Synchronization Device
+																USB Input Device
+																	HID-compliant mouse
+																USB Input Device
+																	HID-compliant digitizer
+														Microsoft Wireless Transceiver for Bluetooth
+															Bluetooth Device (Personal Area Network)
+															Bluetooth Device (RFCOMM Protocol TDI)
+															Microsoft Bluetooth Enumerator
+															Microsoft Bluetooth LE Enumerator
+														USB Printing Support
+																Parallels Shared Printer
+																	Print to PDF (Mac Desktop)
+										LPC Controller
+											Direct memory access controller
+											High precision event timer
+											Legacy device
+											Microsoft ACPI-Compliant Embedded Controller
+											Motherboard resources
+											Numeric data processor
+											Parallels Mouse Synchronization Device
+											Programmable interrupt controller
+											Standard PS/2 Keyboard
+											System board
+											System CMOS/real time clock
+											System speaker
+											System timer
+										Intel(R) 82801BA Ultra ATA Storage Controller - 244B
+											ATA Channel 0
+											ATA Channel 1
+										Standard SATA AHCI Controller
+											Virtual DVD-ROM
+										High Definition Audio Controller
+												High Definition Audio Device
+													Microphone (High Definition Audio Device)
+													Speakers (High Definition Audio Device)
+										Standard NVM Express Controller
+											Parallels Virtual NVMe Disk
+CPU
+		Intel Core
+			Cores	2
+			Threads	2
+			Name	Intel Core
+			Code Name	Broadwell U/ULT
+			Technology	14nm
+			Specification	Intel Core i5-5350U CPU @ 1.80GHz
+			Family	6
+			Extended Family	6
+			Model	D
+			Extended Model	3D
+			Stepping	4
+			Revision	E0/F0
+			Instructions	MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, Intel 64, NX, AES, AVX, AVX2, FMA3
+			Virtualization	Not supported
+			Hyperthreading	Not supported
+			Bus Speed	100.0 MHz
+			Stock Core Speed	1800 MHz
+			Stock Bus Speed	100 MHz
+				Caches
+					L1 Data Cache Size	2 x 32 KBytes
+					L1 Instructions Cache Size	2 x 32 KBytes
+					L2 Unified Cache Size	2 x 256 KBytes
+					L3 Unified Cache Size	3072 KBytes
+				Cores
+						Core 0
+							Core Speed	1800.2 MHz
+							Multiplier	x 18.0
+							Bus Speed	100.0 MHz
+							Threads	APIC ID: 0
+						Core 1
+							Core Speed	1800.2 MHz
+							Multiplier	x 18.0
+							Bus Speed	100.0 MHz
+							Threads	APIC ID: 1
+RAM
+		Memory
+			Type	DDR2
+			Size	4074 MBytes
+			Channels #	Dual
+			DRAM Frequency	166.7 MHz
+			CAS# Latency (CL)	8 clocks
+			RAS# to CAS# Delay (tRCD)	10 clocks
+			RAS# Precharge (tRP)	5 clocks
+			Cycle Time (tRAS)	21 clocks
+			Command Rate (CR)	1T
+		Physical Memory
+			Memory Usage	43 %
+			Total Physical	3.98 GB
+			Available Physical	2.26 GB
+			Total Virtual	12 GB
+			Available Virtual	11 GB
+		SPD
+			Number Of SPD Modules	0
+Motherboard
+	Manufacturer	Parallels Software International Inc.
+	Model	Parallels Virtual Platform (CPU Socket #0)
+	Version	None
+	Chipset Vendor	Intel
+	Chipset Model	P965/G965
+	Chipset Revision	C1
+	Southbridge Vendor	Intel
+	Southbridge Model	82801HB/HR (ICH8/R)
+	Southbridge Revision	B0
+		BIOS
+			Brand	Parallels Software International Inc.
+			Version	18.1.1 (53328)
+			Date	12/2/2022
+		PCI Data
+				Slot ISA
+					Slot Type	ISA
+					Slot Usage	Unknown
+					Bus Width	16 bit
+					Slot Designation	ISA slot 1
+					Characteristics	3.3V
+					Slot Number	0
+				Slot PCI
+					Slot Type	PCI
+					Slot Usage	Unknown
+					Bus Width	32 bit
+					Slot Designation	PCI slot 1
+					Characteristics	3.3V
+					Slot Number	1
+				Slot PCI
+					Slot Type	PCI
+					Slot Usage	Unknown
+					Bus Width	32 bit
+					Slot Designation	PCI slot 2
+					Characteristics	3.3V
+					Slot Number	2
+				Slot PCI
+					Slot Type	PCI
+					Slot Usage	Unknown
+					Bus Width	32 bit
+					Slot Designation	PCI slot 3
+					Characteristics	3.3V
+					Slot Number	3
+				Slot PCI
+					Slot Type	PCI
+					Slot Usage	Unknown
+					Bus Width	32 bit
+					Slot Designation	PCI slot 4
+					Characteristics	3.3V
+					Slot Number	4
+				Slot PCI
+					Slot Type	PCI
+					Slot Usage	Unknown
+					Bus Width	32 bit
+					Slot Designation	PCI slot 5
+					Characteristics	3.3V
+					Slot Number	5
+Graphics
+		Monitor
+			Name	Parallels Vu on Parallels Display Adapter (WDDM)
+			Current Resolution	1440x900 pixels
+			Work Resolution	1440x860 pixels
+			State	Enabled, Primary
+			Monitor Width	1440
+			Monitor Height	900
+			Monitor BPP	32 bits per pixel
+			Monitor Frequency	60 Hz
+			Device	\\.\DISPLAY1\Monitor0
+		Unknown Parallels Display Adapter (WDDM)
+			Manufacturer	Unknown
+			Model	Parallels Display Adapter (WDDM)
+			Device ID	1AB8-4005
+			Subvendor	Unknown (1AB8)
+			Current Performance Level	Level 0
+			Driver version	18.1.1.53328
+			Memory	2036 MB
+				Count of performance levels : 1
+					Level 1 - "Perf Level 0"
+Storage
+		Hard drives
+				Parallels Virtual NVMe Disk (SSD)
+					Interface	Unknown
+					Capacity	256 GB
+					Real size	274,877,906,944 bytes
+					RAID Type	None
+						S.M.A.R.T
+							S.M.A.R.T not supported
+						Partition 0
+							Partition ID	Disk #0, Partition #0
+							File System	NTFS
+							Volume Serial Number	E218E11E
+							Size	299 MB
+							Used Space	12.8 MB (4%)
+							Free Space	287 MB (96%)
+						Partition 1
+							Partition ID	Disk #0, Partition #1
+							File System	FAT32
+							Volume Serial Number	BA1979D4
+							Size	296 MB
+							Used Space	26.8 MB (9%)
+							Free Space	269 MB (91%)
+						Partition 2
+							Partition ID	Disk #0, Partition #2
+							Disk Letter	C:
+							File System	NTFS
+							Volume Serial Number	101B62EA
+							Size	255 GB
+							Used Space	58 GB (22%)
+							Free Space	196 GB (78%)
+Optical Drives
+		 Virtual DVD-ROM
+			Media Type	DVD Reader
+			Name	Virtual DVD-ROM
+			Availability	Running/Full Power
+			Capabilities	Random Access, Supports Removable Media
+			Read capabilities	CD-R, CD-RW, CD-ROM, DVD-RAM, DVD-ROM, DVD-R
+			Config Manager Error Code	Device is working properly
+			Config Manager User Config	FALSE
+			Drive	D:
+			DriveIntegrity	TRUE
+			Media Loaded	TRUE
+			SCSI Bus	0
+			SCSI Logical Unit	0
+			SCSI Port	2
+			SCSI Target Id	0
+			Size	5.69 GB
+			Status	OK
+			Volume Name	CCCOMA_X64FRE_EN-US_DV9
+			Volume Serial Number	D5332898
+Audio
+		Sound Card
+			High Definition Audio Device
+		Playback Device
+			Speakers (High Definition Audio Device)
+		Recording Device
+			Microphone (High Definition Audio Device)
+Peripherals
+		Standard PS/2 Keyboard
+			Device Kind	Keyboard
+			Device Name	Standard PS/2 Keyboard
+			Vendor	PNP
+			Location	LPC Controller
+				Driver
+					Date	6-21-2006
+					Version	10.0.19041.1
+					File	C:\Windows\system32\DRIVERS\i8042prt.sys
+					File	C:\Windows\system32\DRIVERS\kbdclass.sys
+		HID-compliant mouse
+			Device Kind	Mouse
+			Device Name	HID-compliant mouse
+			Vendor	Unknown
+			Location	USB Input Device
+				Driver
+					Date	6-21-2006
+					Version	10.0.19041.1
+					File	C:\Windows\system32\DRIVERS\mouhid.sys
+					File	C:\Windows\system32\DRIVERS\mouclass.sys
+		Parallels USB Mouse Synchronization Device
+			Device Kind	Mouse
+			Device Name	Parallels USB Mouse Synchronization Device
+			Vendor	Unknown
+			Location	USB Input Device
+				Driver
+					Date	12-2-2022
+					Version	18.1.1.53328
+					File	C:\Windows\system32\DRIVERS\prl_mouf.sys
+					File	C:\Windows\system32\DRIVERS\mouhid.sys
+					File	C:\Windows\system32\DRIVERS\mouclass.sys
+		Parallels Mouse Synchronization Device
+			Device Kind	Mouse
+			Device Name	Parallels Mouse Synchronization Device
+			Vendor	PNP
+			Location	LPC Controller
+				Driver
+					Date	12-2-2022
+					Version	18.1.1.53328
+					File	C:\Windows\system32\DRIVERS\prl_mouf.sys
+					File	C:\Windows\system32\DRIVERS\mouclass.sys
+					File	C:\Windows\system32\DRIVERS\i8042prt.sys
+		Parallels Shared Printer
+			Device Kind	Printer
+			Device Name	Parallels Shared Printer
+			Vendor	Parallels
+			Location	USB Printing Support
+				Driver
+					Date	12-2-2022
+					Version	18.1.1.53328
+					File	C:\Windows\system32\spool\DRIVERS\x64\{C4490DC2-BEFB-4D71-BEDE-7D741246974B}\prlprint.ppd
+					File	C:\Windows\system32\spool\DRIVERS\x64\{C4490DC2-BEFB-4D71-BEDE-7D741246974B}\PSCRIPT5.DLL
+					File	C:\Windows\system32\spool\DRIVERS\x64\{C4490DC2-BEFB-4D71-BEDE-7D741246974B}\PS5UI.DLL
+					File	C:\Windows\system32\spool\DRIVERS\x64\{C4490DC2-BEFB-4D71-BEDE-7D741246974B}\PSCRIPT.HLP
+					File	C:\Windows\system32\spool\DRIVERS\x64\{C4490DC2-BEFB-4D71-BEDE-7D741246974B}\PSCRIPT.NTF
+					File	C:\Windows\system32\spool\DRIVERS\x64\{C4490DC2-BEFB-4D71-BEDE-7D741246974B}\PS_SCHM.GDL
+		Printers
+				Fax
+					Printer Port	SHRFAX:
+					Print Processor	winprint
+					Availability	Always
+					Priority	1
+					Duplex	None
+					Print Quality	200 * 200 dpi Monochrome
+					Status	Unknown
+						Driver
+							Driver Name	Microsoft Shared Fax Driver (v4.00)
+							Driver Path	C:\Windows\system32\spool\DRIVERS\x64\3\FXSDRV.DLL
+				Microsoft Print to PDF
+					Printer Port	PORTPROMPT:
+					Print Processor	winprint
+					Availability	Always
+					Priority	1
+					Duplex	None
+					Print Quality	600 * 600 dpi Color
+					Status	Unknown
+						Driver
+							Driver Name	Microsoft Print To PDF (v6.03)
+							Driver Path	C:\Windows\System32\DriverStore\FileRepository\ntprint.inf_amd64_0338571dd682fd39\Amd64\mxdwdrv.dll
+				Microsoft XPS Document Writer
+					Printer Port	PORTPROMPT:
+					Print Processor	winprint
+					Availability	Always
+					Priority	1
+					Duplex	None
+					Print Quality	600 * 600 dpi Color
+					Status	Unknown
+						Driver
+							Driver Name	Microsoft XPS Document Writer v4 (v6.03)
+							Driver Path	C:\Windows\System32\DriverStore\FileRepository\ntprint.inf_amd64_0338571dd682fd39\Amd64\mxdwdrv.dll
+				Print to PDF (Mac Desktop) (Default Printer)
+					Printer Port	USB001
+					Print Processor	winprint
+					Availability	Always
+					Priority	1
+					Duplex	None
+					Print Quality	600 * 600 dpi Color
+					Status	Unknown
+						Driver
+							Driver Name	Parallels Shared Printer (v6.03)
+							Driver Path	C:\Windows\system32\spool\DRIVERS\x64\3\PSCRIPT5.DLL
+				OneNote for Windows 10
+					Printer Port	Microsoft.Office.OneNote_16001.14326.21146.0_x64__8wekyb3d8bbwe_microsoft.onenoteim_S-1-5-21-4048350901-1217251825-300472942-1000
+					Print Processor	winprint
+					Availability	Always
+					Priority	1
+					Duplex	None
+					Print Quality	300 * 300 dpi Color
+					Status	Unknown
+						Driver
+							Driver Name	Microsoft Software Printer Driver (v6.03)
+							Driver Path	C:\Windows\System32\DriverStore\FileRepository\ntprint.inf_amd64_0338571dd682fd39\Amd64\mxdwdrv.dll
+Network
+	You are connected to the internet
+	Connected through	Parallels VirtIO Ethernet Adapter
+	IP Address	10.211.55.5
+	Subnet mask	255.255.255.0
+	Gateway server	10.211.55.1
+	Preferred DNS server	10.211.55.1
+	DHCP	Enabled
+	DHCP server	10.211.55.1
+	External IP Address	210.89.61.6
+	Adapter Type	Ethernet
+	NetBIOS over TCP/IP	Enabled via DHCP
+	NETBIOS Node Type	Hybrid node
+	Link Speed	0 Bps
+		Computer Name
+			NetBIOS Name	HIMANSHUSIN2C36
+			DNS Name	HIMANSHUSIN2C36
+			Membership	Part of workgroup
+			Workgroup	WORKGROUP
+		Remote Desktop
+			Disabled
+				Console
+					State	Active
+					Domain	HIMANSHUSIN2C36
+		WinInet Info
+			LAN Connection
+			Local system uses a local area network to connect to the Internet
+			Local system has RAS to connect to the Internet
+		Wi-Fi Info
+			Wi-Fi not enabled
+		WinHTTPInfo
+			WinHTTPSessionProxyType	No proxy
+			Session Proxy
+			Session Proxy Bypass
+			Connect Retries	5
+			Connect Timeout (ms)	60,000
+			HTTP Version	HTTP 1.1
+			Max Connects Per 1.0 Servers	INFINITE
+			Max Connects Per Servers	INFINITE
+			Max HTTP automatic redirects	10
+			Max HTTP status continue	10
+			Send Timeout (ms)	30,000
+			IEProxy Auto Detect	Yes
+			IEProxy Auto Config
+			IEProxy
+			IEProxy Bypass
+			Default Proxy Config Access Type	No proxy
+			Default Config Proxy
+			Default Config Proxy Bypass
+		Sharing and Discovery
+			Network Discovery	Disabled
+			File and Printer Sharing	Disabled
+			File and printer sharing service	Enabled
+			Simple File Sharing	Enabled
+			Administrative Shares	Enabled
+			Network access: Sharing and security model for local accounts	Classic - local users authenticate as themselves
+		Adapters List
+				Enabled
+						Bluetooth Device (Personal Area Network)
+							Connection Name	Bluetooth Network Connection
+							DHCP enabled	Yes
+							MAC Address	BC-9A-78-56-34-12
+						Parallels VirtIO Ethernet Adapter
+							Connection-specific DNS Suffix	localdomain
+							Connection Name	Ethernet
+							NetBIOS over TCPIP	Yes
+							DHCP enabled	Yes
+							MAC Address	00-1C-42-B4-3A-49
+							IP Address	10.211.55.5
+							Subnet mask	255.255.255.0
+							Gateway server	10.211.55.1
+							DHCP	10.211.55.1
+							DNS Server	10.211.55.1
+		Network Shares
+			No network shares
+		Current TCP Connections
+				C:\Program Files\Google\Chrome\Application\chrome.exe (1116)
+					Local 10.211.55.5:49873	ESTABLISHED Remote 104.18.11.47:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49874	ESTABLISHED Remote 35.71.178.8:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49875	ESTABLISHED Remote 23.35.41.129:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49876	ESTABLISHED Remote 104.26.3.70:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49884	ESTABLISHED Remote 130.211.23.194:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49887	ESTABLISHED Remote 67.199.150.81:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49905	ESTABLISHED Remote 13.107.21.200:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49907	ESTABLISHED Remote 104.90.5.203:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49918	ESTABLISHED Remote 199.232.254.49:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49921	ESTABLISHED Remote 103.231.98.194:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49928	ESTABLISHED Remote 34.111.113.62:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49941	ESTABLISHED Remote 67.199.150.85:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49942	ESTABLISHED Remote 185.184.8.90:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49945	ESTABLISHED Remote 35.190.60.146:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49950	ESTABLISHED Remote 107.178.254.65:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49951	ESTABLISHED Remote 34.98.64.218:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49961	FIN-WAIT-2 Remote 89.207.16.75:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49962	ESTABLISHED Remote 89.207.16.75:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49965	ESTABLISHED Remote 67.199.150.82:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49977	FIN-WAIT-2 Remote 89.207.16.75:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49978	ESTABLISHED Remote 89.207.16.75:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49715	CLOSE-WAIT Remote 142.250.193.3:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49733	ESTABLISHED Remote 142.251.12.188:5228 (Querying... )
+					Local 10.211.55.5:49981	ESTABLISHED Remote 89.207.16.75:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49753	CLOSE-WAIT Remote 142.250.192.234:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49754	ESTABLISHED Remote 142.250.192.234:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49985	ESTABLISHED Remote 104.16.242.229:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:50008	ESTABLISHED Remote 35.186.193.173:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49761	ESTABLISHED Remote 104.19.188.97:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:50029	ESTABLISHED Remote 34.111.79.67:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49766	ESTABLISHED Remote 104.19.188.97:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49772	ESTABLISHED Remote 172.64.144.98:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:50059	ESTABLISHED Remote 23.220.192.126:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49776	ESTABLISHED Remote 34.96.102.137:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:50088	ESTABLISHED Remote 142.250.194.174:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:50089	ESTABLISHED Remote 142.250.194.174:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49777	ESTABLISHED Remote 142.250.194.14:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49799	ESTABLISHED Remote 104.18.43.158:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49804	CLOSE-WAIT Remote 216.58.200.163:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49823	ESTABLISHED Remote 35.186.241.3:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49824	ESTABLISHED Remote 199.232.45.91:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49830	ESTABLISHED Remote 199.232.45.91:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49841	ESTABLISHED Remote 172.67.4.231:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49854	ESTABLISHED Remote 104.22.52.86:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49862	ESTABLISHED Remote 104.26.6.139:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49864	ESTABLISHED Remote 3.251.48.221:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49865	ESTABLISHED Remote 23.200.150.36:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:50131	ESTABLISHED Remote 142.250.67.202:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49869	ESTABLISHED Remote 199.232.45.108:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49872	ESTABLISHED Remote 199.232.46.132:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:50134	ESTABLISHED Remote 172.217.161.3:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:50135	ESTABLISHED Remote 104.84.173.218:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:50136	ESTABLISHED Remote 104.84.173.218:80 (Querying... ) (HTTP)
+					Local 10.211.55.5:50137	ESTABLISHED Remote 104.84.173.218:80 (Querying... ) (HTTP)
+				C:\Windows\System32\smartscreen.exe (6824)
+					Local 10.211.55.5:50095	ESTABLISHED Remote 152.195.38.76:80 (Querying... ) (HTTP)
+				C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe (5876)
+					Local 10.211.55.5:50119	ESTABLISHED Remote 204.79.197.200:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:50120	ESTABLISHED Remote 13.107.237.254:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:50122	ESTABLISHED Remote 204.79.197.222:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:50066	ESTABLISHED Remote 144.2.15.25:443 (Querying... ) (HTTPS)
+				lsass.exe (740)
+					Local 0.0.0.0:49664	LISTEN
+				prl_tools_service.exe (3356)
+					Local 127.0.0.1:30631	LISTEN
+				services.exe (720)
+					Local 0.0.0.0:49670	LISTEN
+				spoolsv.exe (2256)
+					Local 0.0.0.0:49669	LISTEN
+				svchost.exe (1020)
+					Local 0.0.0.0:135 (DCE)	LISTEN
+				svchost.exe (1356)
+					Local 0.0.0.0:49666	LISTEN
+				svchost.exe (1524)
+					Local 0.0.0.0:49667	LISTEN
+				svchost.exe (3456)
+					Local 10.211.55.5:49810	ESTABLISHED Remote 20.198.119.84:443 (Querying... ) (HTTPS)
+				svchost.exe (4880)
+					Local 0.0.0.0:5040	LISTEN
+				svchost.exe (5376)
+					Local 10.211.55.5:50107	ESTABLISHED Remote 20.62.190.191:443 (Querying... ) (HTTPS)
+				svchost.exe (8140)
+					Local 10.211.55.5:50108	ESTABLISHED Remote 8.241.168.126:80 (Querying... ) (HTTP)
+					Local 10.211.55.5:50109	ESTABLISHED Remote 8.241.168.126:80 (Querying... ) (HTTP)
+				System Process
+					Local 10.211.55.5:49752	TIME-WAIT Remote 216.58.196.206:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:50127	TIME-WAIT Remote 10.211.55.1:53 (Querying... )
+					Local 10.211.55.5:49974	TIME-WAIT Remote 142.250.207.194:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:50128	TIME-WAIT Remote 10.211.55.1:53 (Querying... )
+					Local 10.211.55.5:50129	TIME-WAIT Remote 10.211.55.1:53 (Querying... )
+					Local 10.211.55.5:49936	TIME-WAIT Remote 67.199.150.85:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49923	TIME-WAIT Remote 34.111.113.62:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49920	TIME-WAIT Remote 103.231.98.194:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:50130	TIME-WAIT Remote 10.211.55.1:53 (Querying... )
+					Local 10.211.55.5:50132	TIME-WAIT Remote 10.211.55.1:53 (Querying... )
+					Local 10.211.55.5:49828	TIME-WAIT Remote 142.250.207.226:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49720	TIME-WAIT Remote 216.58.196.100:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49722	TIME-WAIT Remote 142.250.206.138:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49731	TIME-WAIT Remote 142.250.194.78:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49863	TIME-WAIT Remote 3.251.48.221:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:50133	TIME-WAIT Remote 10.211.55.1:53 (Querying... )
+					Local 10.211.55.5:49835	TIME-WAIT Remote 142.250.207.206:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49839	TIME-WAIT Remote 142.250.194.226:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49755	TIME-WAIT Remote 142.250.195.2:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49870	TIME-WAIT Remote 35.71.178.8:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49764	TIME-WAIT Remote 142.250.194.202:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49765	TIME-WAIT Remote 142.250.194.227:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49844	TIME-WAIT Remote 142.250.207.194:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49771	TIME-WAIT Remote 142.250.193.200:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49851	TIME-WAIT Remote 142.250.194.2:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49774	TIME-WAIT Remote 142.250.192.227:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49853	TIME-WAIT Remote 104.22.52.86:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49881	TIME-WAIT Remote 142.250.207.226:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49789	TIME-WAIT Remote 142.251.10.157:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49797	TIME-WAIT Remote 142.250.195.3:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49855	TIME-WAIT Remote 142.250.194.225:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49858	TIME-WAIT Remote 142.250.193.1:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49808	TIME-WAIT Remote 142.250.194.35:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49889	TIME-WAIT Remote 142.250.207.194:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49822	TIME-WAIT Remote 35.186.241.3:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49860	TIME-WAIT Remote 104.26.6.139:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49878	TIME-WAIT Remote 104.26.3.70:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49979	TIME-WAIT Remote 35.190.60.146:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49980	TIME-WAIT Remote 89.207.16.75:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49983	TIME-WAIT Remote 104.16.242.229:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:49984	TIME-WAIT Remote 13.33.33.2:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:50021	TIME-WAIT Remote 13.224.20.36:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:50032	TIME-WAIT Remote 142.250.193.198:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:50054	TIME-WAIT Remote 20.62.190.190:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:50123	TIME-WAIT Remote 10.211.55.1:53 (Querying... )
+					Local 10.211.55.5:50092	TIME-WAIT Remote 52.168.117.169:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:50094	TIME-WAIT Remote 8.241.163.254:80 (Querying... ) (HTTP)
+					Local 10.211.55.5:50111	TIME-WAIT Remote 20.42.73.26:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:50121	TIME-WAIT Remote 13.107.237.254:443 (Querying... ) (HTTPS)
+					Local 10.211.55.5:50124	TIME-WAIT Remote 10.211.55.1:53 (Querying... )
+					Local 10.211.55.5:50125	TIME-WAIT Remote 10.211.55.1:53 (Querying... )
+					Local 10.211.55.5:50126	TIME-WAIT Remote 10.211.55.1:53 (Querying... )
+				System Process
+					Local 0.0.0.0:445 (Windows shares)	LISTEN
+					Local 10.211.55.5:139 (NetBIOS session service)	LISTEN
+				Unknown (7092)
+					Local 10.211.55.5:50091	FIN-WAIT-2 Remote 52.191.219.104:443 (Querying... ) (HTTPS)
+				wininit.exe (576)
+					Local 0.0.0.0:49665	LISTEN
+Generated with Speccy v1.32.803
